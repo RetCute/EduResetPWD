@@ -17,3 +17,13 @@ Some tips help you to reset your edumail password
 <br>[4]域名:@heidelberg.edu
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>[5]域名:@umich.edu
+<br>方式:学校官网
+<br>注意:登录学校官网可能会需要2FA验证导致无法更改密码
+<br>Url:https://accounts.it.umich.edu/
+<br>[6]域名:@spartans.nsu.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>[7]域名:@selu.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
