@@ -27,3 +27,9 @@ Some tips help you to reset your edumail password
 <br>[7]域名:@selu.edu
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>[8]域名:@jacksonville.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>[9]域名:@cit.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
