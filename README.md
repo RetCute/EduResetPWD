@@ -42,3 +42,17 @@ Some tips help you to reset your edumail password
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
+<br>[10]域名:@wvup.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[11]域名:@strose.edu
+<br>Url:https://pwdreset.strose.edu/Login/Default.aspx?ReturnUrl=%2f
+<br>过程:User Name输入邮箱@前面一段 然后输入Password和验证码登录 再点击Change Password 可能会
+<br>让你重设密保 你随便设就行
+<br>------------------------------------------------------------------
+<br>[11]域名:@go.stockton.edu
+<br>Url:Url:https://cas.stockton.edu/cas/login?service=https%3A%2F%2Fgo.stockton.edu%2Flogin%2Fcas
+<br>过程:User Name输入邮箱@前面一段 然后输入Password 登录可能会有2FA 登录完成后 点击Update My Account
+<br>找到Change Password即可
+<br>------------------------------------------------------------------
