@@ -56,3 +56,38 @@ Some tips help you to reset your edumail password
 <br>过程:User Name输入邮箱@前面一段 然后输入Password 登录可能会有2FA 登录完成后 点击Update My Account
 <br>找到Change Password即可
 <br>------------------------------------------------------------------
+<br>[13]域名:@cairn.edu
+<br>Url:https://reset.cairn.edu/authorization.do
+<br>过程:登录 然后点击修改密码
+<br>------------------------------------------------------------------
+<br>[14]域名@lynchburg.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[14]域名:@owls.williamwoods.edu
+<br>方式:学校官网
+<br>Url:https://www.williamwoods.edu/current_students/index.html
+<br>过程:点击WWU QuickLaunch 登录 用户名只用@前面的 完成后点击右上角 再选择ChangePassword
+<br>------------------------------------------------------------------
+<br>[15]@miners.utep.edu
+<br>方式:学校官网
+<br>Url:https://adminapps.utep.edu/changepassword/
+<br>过程:Username只要@前面那块
+<br>------------------------------------------------------------------
+<br>[16]@cmich.edu
+<br>方式:学校官网
+<br>Url:https://sso.cmich.edu/my.policy
+<br>过程:登录点ChangePassword即可
+<br>------------------------------------------------------------------
+<br>[17]域名@csumb.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[18]域名@g.austincc.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[19]域名@mail.fresnostate.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
