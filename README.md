@@ -125,3 +125,27 @@ Some tips help you to reset your edumail password
 <br>Url:https://shibidp.cit.cornell.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
 <br>方式:直接登录改就行
 <br>------------------------------------------------------------------
+<br>[28]域名:@siena.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[29]域名:@ufl.edu
+<br>方式:学校官网
+<br>Url:https://account.it.ufl.edu/
+<br>过程:选Change Your Password 登录USERNAME只要@前面的
+<br>------------------------------------------------------------------
+<br>[30]域名:@naz.edu
+<br>方式:学校官网
+<br>Url:https://authx.naz.edu/
+<br>过程:选Account Settings 登录Username只要@前面的
+<br>------------------------------------------------------------------
+<br>[31]域名:@mail.endicott.edu
+<br>方式:学校官网
+<br>Url:https://cars.endicott.edu/cgi-bin/public/ecidbauth.cgi?url=pwc&rpreq=t
+<br>过程:选Account Settings 登录Username只要@前面的
+<br>------------------------------------------------------------------
+<br>[32]域名:@tkc.edu
+<br>方式:学校官网
+<br>Url:https://changemypassword.tkc.edu/PasswordReset/#
+<br>过程:选Change Your Password 登录USERNAME只要@前面的
+<br>------------------------------------------------------------------
