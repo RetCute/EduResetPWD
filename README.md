@@ -149,3 +149,11 @@ Some tips help you to reset your edumail password
 <br>Url:https://changemypassword.tkc.edu/PasswordReset/#
 <br>过程:选Change Your Password 登录USERNAME只要@前面的
 <br>------------------------------------------------------------------
+<br>[33]域名:@mymail.rcbc.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[34]域名:@dons.usfca.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
