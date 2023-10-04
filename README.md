@@ -157,3 +157,8 @@ Some tips help you to reset your edumail password
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
+<br>[35]域名:@my.jccmi.edu
+<br>方式:学校官网
+<br>Url:https://pwdreset.jccmi.edu/
+<br>方式:登录只要@前面的用户名 如若要求密保问题 重设或者我已提供 直接输入即可
+<br>------------------------------------------------------------------
