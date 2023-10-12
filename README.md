@@ -190,7 +190,12 @@ Some tips help you to reset your edumail password
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
-<br>[43]域名@umit.maine.edu
+<br>[43]域名@umit.maine.edu/@maine.edu
+<br>方式:学校官网
+<br>Url:https://accounts.maine.edu/um/LoginHandler
+<br>方式:Userid @前面的
+<br>------------------------------------------------------------------
+<br>[44]域名@my.easternct.edu
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
