@@ -199,3 +199,20 @@ Some tips help you to reset your edumail password
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
+<br>[45]域名@sau.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[46]域名@u.nus.edu
+<br>方式:学校官网
+<br>Url:https://exchange.nus.edu.sg/passwordportal/
+<br>方式:Userid @前面的
+<br>------------------------------------------------------------------
+<br>[47]域名@jjay.cuny.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[48]域名@toromail.csudh.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
