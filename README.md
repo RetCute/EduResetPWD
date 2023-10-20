@@ -228,3 +228,7 @@ Some tips help you to reset your edumail password
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
+<br>[52]域名@lcmail.lcsc.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
