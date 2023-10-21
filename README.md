@@ -232,3 +232,15 @@ Some tips help you to reset your edumail password
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
+<br>[53]域名@doane.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[54]域名@alu.ucam.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[55]域名@@pratt.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
