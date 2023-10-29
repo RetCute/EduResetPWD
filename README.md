@@ -249,3 +249,20 @@ Some tips help you to reset your edumail password
 <br>Url:https://clearwater.sjcme.edu/PasswordReset/ChangePass
 <br>方式:输入@前的用户名 + 密码 和新密码即可
 <br>------------------------------------------------------------------
+<br>[57]域名@manhattan.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[58]域名miamioh.edu
+<br>方式:学校官网
+<br>Url:https://was.miamioh.edu/perl/was/changepassword
+<br>方式:选Change Password那个 然后@前面用户名登录 更改密码
+<br>------------------------------------------------------------------
+<br>[59]域名@cnu.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[60]域名@converse.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
