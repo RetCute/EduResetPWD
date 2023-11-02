@@ -266,3 +266,8 @@ Some tips help you to reset your edumail password
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
+<br>[61]域名@albertus.edu
+<br>方式:学校官网
+<br>Url:https://ss1.albertus.edu/pm/change_password.asp
+<br>方式:对代理要求较高 可能打不开输入@前+密码更改
+<br>------------------------------------------------------------------
