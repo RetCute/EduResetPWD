@@ -271,3 +271,24 @@ Some tips help you to reset your edumail password
 <br>Url:https://ss1.albertus.edu/pm/change_password.asp
 <br>方式:对代理要求较高 可能打不开输入@前+密码更改
 <br>------------------------------------------------------------------
+<br>[62]域名@morgan.edu
+<br>方式:学校官网
+<br>Url:https://mypassword.morgan.edu/_layouts/PG/login.aspx?ReturnUrl=%2f
+<br>方式:登录完成后点Change即可
+<br>------------------------------------------------------------------
+<br>[63]域名@hocking.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[64]域名@unh.newhaven.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[65]域名@aquinas.edu
+<br><br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[66]域名@wooster.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
