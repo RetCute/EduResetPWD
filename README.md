@@ -1,5 +1,6 @@
 # EduResetPWD
 Some tips help you to reset your edumail password
+<br>我的建议是不修改密码 直接去https://mysignins.microsoft.com/security-info 绑定验证APP
 <br>欢迎大家来我卡网买东西捏 https://shop.lovekano.cn
 <br>[1]域名:sunyit.edu
 <br>方式:学校官网更改
