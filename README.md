@@ -300,3 +300,8 @@ Some tips help you to reset your edumail password
 <br>[68]域名@student.clayton.edu
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+[70]域名@harding.edu
+方式:Azure官网
+Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
