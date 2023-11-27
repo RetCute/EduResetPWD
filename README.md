@@ -301,7 +301,20 @@ Some tips help you to reset your edumail password
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
-[70]域名@harding.edu
-方式:Azure官网
-Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>[70]域名@harding.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[71]域名@cccc.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[72]域名@student.lagrange.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[73]域名@cub.uca.edu
+<br>方式:学校官网
+<br>Url:https://password.uca.edu/pwm/private/login
+<br>方式:@前用户名登录 然后选择更改口令
 <br>------------------------------------------------------------------
