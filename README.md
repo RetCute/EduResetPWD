@@ -318,3 +318,7 @@ Some tips help you to reset your edumail password
 <br>Url:https://password.uca.edu/pwm/private/login
 <br>方式:@前用户名登录 然后选择更改口令
 <br>------------------------------------------------------------------
+<br>[74]域名@cnu.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
