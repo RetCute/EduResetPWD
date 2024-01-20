@@ -322,3 +322,16 @@ Some tips help you to reset your edumail password
 <br>方式:Azure官网
 <br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
 <br>------------------------------------------------------------------
+<br>[75]域名@floridacollege.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[76]域名@cca.edu
+<br>方式:Azure官网
+<br>Url:https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+<br>------------------------------------------------------------------
+<br>[77]域名@chawk.cecil.edu
+<br>方式:学校官网
+<br>Url:https://my.cecil.edu/ICS/Help/Help_Home.jnz?portlet=Student_Password_Management&screen=ChangePwd_View&screenType=next
+<br>步骤:@前面用户名登录后更改即可
+<br>------------------------------------------------------------------
