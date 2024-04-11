@@ -335,3 +335,18 @@ Some tips help you to reset your edumail password
 <br>Url:https://my.cecil.edu/ICS/Help/Help_Home.jnz?portlet=Student_Password_Management&screen=ChangePwd_View&screenType=next
 <br>步骤:@前面用户名登录后更改即可
 <br>------------------------------------------------------------------
+<br>[78]@lc.edu
+<br>方式:学校官网
+<br>Url:https://selfservice.lc.edu/
+<br>步骤:@前面用户名登录后 点击用户名下拉框里的Change Password
+<br>------------------------------------------------------------------
+<br>[79]@student.hlg.edu
+<br>方式:学校官网
+<br>Url:https://portals.hlg.edu/signin/ChangePassword
+<br>步骤:用户名直接填邮箱 + New和Old Password
+<br>------------------------------------------------------------------
+<br>[80]@cwu.edu
+<br>方式:学校官网
+<br>Url:https://cwucsprd.peoplesoft.cwu.edu/psc/cwucsprd/EMPLOYEE/SA/c/CW_SYSTEMS.CW_ACCOUNT_AUTH?&
+<br>步骤:@前面用户名 + 旧/新密码(14位以上)
+<br>------------------------------------------------------------------
