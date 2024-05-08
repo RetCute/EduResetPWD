@@ -1,7 +1,6 @@
 # EduResetPWD
 Some tips help you to reset your edumail password
 <br>我的建议是不修改密码 直接去https://mysignins.microsoft.com/security-info 绑定验证APP
-<br>欢迎大家来我卡网买东西捏 https://shop.lovekano.cn
 <br>[1]域名:sunyit.edu
 <br>方式:学校官网更改
 <br>Url:http://banner.sunypoly.edu
@@ -349,4 +348,14 @@ Some tips help you to reset your edumail password
 <br>方式:学校官网
 <br>Url:https://cwucsprd.peoplesoft.cwu.edu/psc/cwucsprd/EMPLOYEE/SA/c/CW_SYSTEMS.CW_ACCOUNT_AUTH?&
 <br>步骤:@前面用户名 + 旧/新密码(14位以上)
+<br>------------------------------------------------------------------
+<br>[81]@student.midlandstech.edu
+<br>方式:学校官网
+<br>Url:https://eweb.midlandstech.edu/passwordchange/ChangePassword.aspx
+<br>步骤:输入@前的用户名 然后新旧密码更改
+<br>------------------------------------------------------------------
+<br>[82]@mail.pima.edu
+<br>方式:学校官网
+<br>Url:https://account.pima.edu/changepassword
+<br>步骤:输入@前的用户名和当前密码 然后改密码 不能有特殊符号只有字母数字 后面的Recovery不用管改完就行
 <br>------------------------------------------------------------------
